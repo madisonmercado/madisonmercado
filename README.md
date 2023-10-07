@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madisonmercado
 - 👀 I’m interested in graphic design and UI/UX design
 - 🌱 I’m currently learning HTML, CSS, and Figma
-- 📫 How to reach me at dontmakelies.com
+- 📫 Reach me at dontmakelies.com
 
 <!---
 madisonmercado/madisonmercado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
